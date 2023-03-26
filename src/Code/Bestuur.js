@@ -4,7 +4,7 @@ function Bestuur() {
   return (
     <div className="bestuursoverzicht">
       <div className="bestuurslid">
-        <img src="/Bestuur/NickFoncke.jpg" alt="Nick Foncke" />
+        <img src="/Bestuur/NickFoncke.JPG" alt="Nick Foncke" />
         <p>
           <b>Nick Foncke</b>
           <br />
@@ -12,7 +12,7 @@ function Bestuur() {
         </p>
       </div>
       <div className="bestuurslid">
-        <img src="/Bestuur/HansDePoortere.jpg" alt="Hans De Poortere" />
+        <img src="/Bestuur/HansDePoortere.JPG" alt="Hans De Poortere" />
         <p>
           <b>Hans De Poortere</b>
           <br />
@@ -20,7 +20,7 @@ function Bestuur() {
         </p>
       </div>
       <div className="bestuurslid">
-        <img src="/Bestuur/KurtVerbrugge.jpg" alt="Kurt Verbrugge" />
+        <img src="/Bestuur/KurtVerbrugge.JPG" alt="Kurt Verbrugge" />
         <p>
           <b>Kurt Verbrugge</b>
           <br />
@@ -28,7 +28,7 @@ function Bestuur() {
         </p>
       </div>
       <div className="bestuurslid">
-        <img src="/Bestuur/RafClaerhout.jpg" alt="Raf Claerhout" />
+        <img src="/Bestuur/RafClaerhout.JPG" alt="Raf Claerhout" />
         <p>
           <b>Raf Claerhout</b>
           <br />
@@ -36,7 +36,7 @@ function Bestuur() {
         </p>
       </div>
       <div className="bestuurslid">
-        <img src="/Bestuur/HendrikWulteputte.jpg" alt="Hendrik Wulteputte" />
+        <img src="/Bestuur/HendrikWulteputte.JPG" alt="Hendrik Wulteputte" />
         <p>
           <b>Hendrik Wulteputte</b>
           <br />
