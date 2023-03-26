@@ -17,7 +17,7 @@ function Sponsors() {
       <img src="/Sponsors/deweirt.jpg" alt="Deweirt" />
       <img src="/Sponsors/garagebettens.jpg" alt="Garage Bettens" />
       <img src="/Sponsors/keukenbouwer.png" alt="De Keukenbouwer" />
-      <img src="/Sponsors/lootens.JPG" alt="Lootens Line" />
+      <img src="/Sponsors/lootens.jpg" alt="Lootens Line" />
       <img src="/Sponsors/ouwehoeve.png" alt="d' Ouwe Hoeve" />
       <img src="/Sponsors/progicon.jpg" alt="Progicon" />
       <img src="/Sponsors/slagerijbc.jpg" alt="Slagerij B&C" />
