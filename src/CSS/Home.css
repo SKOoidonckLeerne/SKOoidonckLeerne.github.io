@@ -1,0 +1,63 @@
+.welkom {
+  margin-top: 250px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.intro {
+  width: 100%;
+  padding: 15px;
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.7)
+  );
+  color: black;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: large;
+}
+
+.bold {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.nieuws {
+  margin-top: 25px;
+  margin-bottom: 50px;
+  width: 50%;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nieuwsitem {
+  margin-top: 25px;
+  padding: 15px;
+  font-size: medium;
+  background-color: white;
+  color: black;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: black;
+}
+
+.nieuwsitem img {
+  width: 50%;
+  float: left;
+  margin-right: 10px;
+}
+
+.nieuwstitel {
+  text-align: left;
+}
+
+.nieuwstekst {
+  text-align: justify;
+}
