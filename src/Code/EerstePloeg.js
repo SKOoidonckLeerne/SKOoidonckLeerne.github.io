@@ -6,7 +6,7 @@ function EerstePloeg() {
       <img className="team" src="/EerstePloeg/Team.jpg" alt="Team" />
       <iframe
         className="klassement"
-        src="https://www.voetbalvlaanderen.be/competitie/CHP_107089/rangschikking"
+        src="https://www.voetbalvlaanderen.be/competitie/CHP_112989/rangschikking"
       />
       <p className="positie">STAF</p>
       <div className="positieoverzicht">

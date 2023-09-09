@@ -11,10 +11,10 @@ function Contact() {
           <br />
           VZW SK OOIDONCK LEERNE
           <br />
-          Ten Bosse, 9800 Deinze
+          Ten Bosse 104, 9800 Deinze
         </p>
         <p>
-          <b>Gerechtigd Correspondent: Nick Foncke</b>
+          <b>Gerechtigd Correspondent: Nic Foncke</b>
           <br />
           <img className="icon" src="Icons/email_icon.png" alt="E-mail:" />
           nic.foncke@telenet.be

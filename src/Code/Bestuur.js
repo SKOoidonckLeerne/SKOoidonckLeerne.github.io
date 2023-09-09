@@ -6,7 +6,7 @@ function Bestuur() {
       <div className="bestuurslid">
         <img src="/Bestuur/NickFoncke.JPG" alt="Nick Foncke" />
         <p>
-          <b>Nick Foncke</b>
+          <b>Nic Foncke</b>
           <br />
           Gerechtigd correspondent <br /> Secretaris
         </p>

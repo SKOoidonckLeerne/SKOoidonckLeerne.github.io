@@ -5,7 +5,7 @@ function Dames() {
     <div className="ploegoverzicht">
       <iframe
         className="klassement"
-        src="https://www.voetbalvlaanderen.be/competitie/CHP_107114/rangschikking"
+        src="https://www.voetbalvlaanderen.be/competitie/CHP_113678/rangschikking"
       />
     </div>
   );
