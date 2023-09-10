@@ -58,13 +58,6 @@ function Bestuur() {
           Bestuurslid
         </p>
       </div>
-      <div className="bestuurslid2">
-        <p>
-          <b>Frederik Haelterman</b>
-          <br />
-          Bestuurslid
-        </p>
-      </div>
     </div>
   );
 }

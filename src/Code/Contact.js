@@ -23,15 +23,6 @@ function Contact() {
           0486 22 65 04
         </p>
         <p>
-          <b>Jeugdcoördinator Onderbouw: Frederik Haelterman</b>
-          <br />
-          <img className="icon" src="Icons/email_icon.png" alt="E-mail:" />
-          frederik.haelterman@telenet.be
-          <br />
-          <img className="icon" src="Icons/telephone_icon.png" alt="GSM:" />
-          0476 68 09 39
-        </p>
-        <p>
           <b>Jeugdcoördinator Bovenbouw: Steven Feys</b>
           <br />
           <img className="icon" src="Icons/email_icon.png" alt="E-mail:" />
