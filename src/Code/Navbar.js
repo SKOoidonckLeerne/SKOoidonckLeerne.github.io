@@ -229,11 +229,12 @@ class Navbar extends React.Component {
             >
               Privacyverklaring
             </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown"></div>
-            <div className="dropdown-item linkdiv" onClick={onButtonClick7}>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <div className="dropdown-item linkdiv" onClick={onButtonClick7}>
                 Privacyverklaring
               </div>
-            </li>
+            </div>
+          </li>
         </div>
       </nav>
     );
