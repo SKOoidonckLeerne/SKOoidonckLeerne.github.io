@@ -49,6 +49,24 @@ function Contact() {
           <img className="icon" src="Icons/telephone_icon.png" alt="GSM:" />
           0493 36 56 78
         </p>
+        <p>
+          <b>Aanspreekpunt Integriteit: Bjorn Doens</b>
+          <br />
+          <img className="icon" src="Icons/email_icon.png" alt="E-mail:" />
+          bjorn.doens@telenet.be
+          <br />
+          <img className="icon" src="Icons/telephone_icon.png" alt="GSM:" />
+          0494 51 62 22
+        </p>
+        <p>
+          <b>Aanspreekpunt Integriteit: Lisa Van de Voorde</b>
+          <br />
+          <img className="icon" src="Icons/email_icon.png" alt="E-mail:" />
+          lisa_vandevoorde@hotmail.com 
+          <br />
+          <img className="icon" src="Icons/telephone_icon.png" alt="GSM:" />
+          0474 88 09 67
+        </p>
       </div>
       <div className="contactitem">
         <MapContainer
