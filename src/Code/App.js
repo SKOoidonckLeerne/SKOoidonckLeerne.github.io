@@ -54,6 +54,13 @@ function App() {
           >
             <img height="25px" alt="Instagram" src="/Banner/instagram.svg" />
           </a>
+          <a
+            class="link"
+            href="https://www.tiktok.com/@skooidonckleerne"
+            target="_blank"
+          >
+            <img height="25px" alt="TikTok" src="/Banner/tiktok.png" />
+          </a>
         </p>
       </footer>
     </div>

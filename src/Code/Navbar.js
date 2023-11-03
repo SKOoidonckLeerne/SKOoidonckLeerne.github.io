@@ -218,23 +218,9 @@ class Navbar extends React.Component {
               </div>
             </div>
           </li>
-          <li class="nav-item dropdown">
-            <a
-              class="nav-link dropdown-toggle"
-              id="navbarDropdown"
-              role="button"
-              data-toggle="dropdown"
-              aria-haspopup="true"
-              aria-expanded="false"
-            >
-              Privacyverklaring
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <div className="dropdown-item linkdiv" onClick={onButtonClick7}>
-                Privacyverklaring
-              </div>
-            </div>
-          </li>
+          <div class="nav-link linkdiv" onClick={onButtonClick7}>
+            Privacyverklaring
+          </div>
         </div>
       </nav>
     );
