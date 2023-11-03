@@ -75,6 +75,18 @@ const onButtonClick6 = () => {
   });
 };
 
+const onButtonClick7 = () => {
+  fetch("Files/SKOL Privacy Policy_31102023.pdf").then((response) => {
+    response.blob().then((blob) => {
+      const fileURL = window.URL.createObjectURL(blob);
+      let alink = document.createElement("a");
+      alink.href = fileURL;
+      alink.download = "SKOL Privacy Policy_31102023.pdf";
+      alink.click();
+    });
+  });
+};
+
 class Navbar extends React.Component {
   render() {
     return (
@@ -206,6 +218,22 @@ class Navbar extends React.Component {
               </div>
             </div>
           </li>
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link dropdown-toggle"
+              id="navbarDropdown"
+              role="button"
+              data-toggle="dropdown"
+              aria-haspopup="true"
+              aria-expanded="false"
+            >
+              Privacyverklaring
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown"></div>
+            <div className="dropdown-item linkdiv" onClick={onButtonClick7}>
+                Privacyverklaring
+              </div>
+            </li>
         </div>
       </nav>
     );
