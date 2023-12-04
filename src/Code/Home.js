@@ -2,6 +2,18 @@ import "../CSS/Home.css";
 
 import React from "react";
 
+const onButtonClick = () => {
+  fetch("Nieuws/Bestelformulier Wijnactie SKOL 2023.xlsx").then((response) => {
+    response.blob().then((blob) => {
+      const fileURL = window.URL.createObjectURL(blob);
+      let alink = document.createElement("a");
+      alink.href = fileURL;
+      alink.download = "Bestelformulier Wijnactie SKOL 2023.xlsx";
+      alink.click();
+    });
+  });
+};
+
 class Home extends React.Component {
   render() {
     return (
@@ -28,48 +40,46 @@ class Home extends React.Component {
         <div className="nieuws">
           <p className="bold">Laatste nieuws:</p>
           <div className="nieuwsitem">
-            <p className="bold nieuwstitel">
-              Wijnactie - Drink Rood en Wit
-            </p>
+            <p className="bold nieuwstitel">Wijnactie - Drink Rood en Wit</p>
             <p>04 december 2023</p>
-            <div>
-              <img src="/Nieuws/nieuwskunstgras.jpg" alt="bewegingsschool" />
-            </div>
             <p className="nieuwstekst">
-              Na onze meer dan geslaagde Eindejaars Wijn-actie van de voorbije jaren,  
-              willen we jullie graag nogmaals de kans geven om tijdens de komende eindejaarsfeesten 
-              een lekker glaasje te drinken.  Zo helpt U dan ook onze  club financieel  sterk en gezond te houden!
+              Na onze meer dan geslaagde Eindejaars Wijn-actie van de voorbije
+              jaren, willen we jullie graag nogmaals de kans geven om tijdens de
+              komende eindejaarsfeesten een lekker glaasje te drinken. Zo helpt
+              U dan ook onze club financieel sterk en gezond te houden!
               <br />
               <br />
-              Deze keer kozen we voor het wijndomein “Bon Remède Vieilles Vignes”, 
-              een galante en volle rode wijn uit de Ventoux-regio,  een witte Chardonnay “Papolle” 
-              uit de Gascogne en tot slot een toppertje uit de Spaanse Cava-regio, de “Nu-Maset”.
-              Waarschijnlijk is jullie voorraad van vorig jaar al lang op  en hebben jullie 
-              dringend nood aan een fill-up voor de komende eindejaarsperiode. 
+              Deze keer kozen we voor het wijndomein “Bon Remède Vieilles
+              Vignes”, een galante en volle rode wijn uit de Ventoux-regio, een
+              witte Chardonnay “Papolle” uit de Gascogne en tot slot een
+              toppertje uit de Spaanse Cava-regio, de “Nu-Maset”. Waarschijnlijk
+              is jullie voorraad van vorig jaar al lang op en hebben jullie
+              dringend nood aan een fill-up voor de komende eindejaarsperiode.
               <br />
               <br />
-              U kan t.e.m. 19 december  a.s. uw bestelling per mail doorsturen naar: kurt.verbrugge@skynet.be
-              
-              We hebben speciaal een overzichtelijk bestelformulier in bijlage om het U 
-              (en ook ons )wat gemakkelijker te maken…
+              U kan t.e.m. 19 december a.s. uw bestelling per mail doorsturen
+              naar: kurt.verbrugge@skynet.be. We hebben speciaal een
+              overzichtelijk bestelformulier in bijlage om het U (en ook ons)
+              wat gemakkelijker te maken…
               <br />
               <br />
-               Prijs : zie bijgaand bestelformulier, met mogelijkheid tot verkrijgen van factuur 
-              mits invullen facturatiegegevens
-              
-              Betalen : enkel via storting op reknr : BE76 9796 3655 2195 
-              (ten laatste tegen 19 december op onze rekening graag…) 
-              met vermelding van Naam en “ WIJNACTIE SKOL 2023” 
-              
-              Afhalen : enkel op zaterdag 23 december van 10u tot 13u in het portaal 
-              van Wijnhandel Taveirne, Guido Gezellelaan 37, B-9800 Deinze 
-              
-              We wensen jullie alvast veel plezier bij een glaasje Rood of Wit of iets anders. 
-              SKOL ! 
-              
-              Met sportieve groeten,
-
-              Het bestuur, Hans, Hendrik, Luc, Raf, Noël, Nick, Steven, Fré, Bjorn en Kurt
+              Prijs: zie bijgaand bestelformulier, met mogelijkheid tot
+              verkrijgen van factuur mits invullen facturatiegegevens. Betalen:
+              enkel via storting op reknr: BE76 9796 3655 2195 (ten laatste
+              tegen 19 december op onze rekening graag…) met vermelding van Naam
+              en “WIJNACTIE SKOL 2023”. Afhalen: enkel op zaterdag 23 december
+              van 10u tot 13u in het portaal van Wijnhandel Taveirne, Guido
+              Gezellelaan 37, B-9800 Deinze.
+              <br />
+              <br />
+              We wensen jullie alvast veel plezier bij een glaasje Rood of Wit
+              of iets anders. SKOL! Met sportieve groeten, Het bestuur, Hans,
+              Hendrik, Luc, Raf, Noël, Nick, Steven, Fré, Bjorn en Kurt
+              <br />
+              <br />
+              <div className="linkdiv" onClick={onButtonClick}>
+                Download formulier
+              </div>
             </p>
           </div>
           <div className="nieuwsitem">

@@ -61,3 +61,11 @@
 .nieuwstekst {
   text-align: justify;
 }
+
+.linkdiv {
+  font-weight: bold;
+}
+
+.linkdiv:hover {
+  cursor: pointer;
+}
