@@ -29,89 +29,47 @@ class Home extends React.Component {
           <p className="bold">Laatste nieuws:</p>
           <div className="nieuwsitem">
             <p className="bold nieuwstitel">
-              SK Ooidonck Leerne barst uit haar voegen: “Nood aan tweede terrein
-              of kunstgras of we moeten ledenstop invoeren”
+              Wijnactie - Drink Rood en Wit
             </p>
-            <p>20 maart 2022</p>
+            <p>04 december 202</p>
             <div>
               <img src="/Nieuws/nieuwskunstgras.jpg" alt="bewegingsschool" />
             </div>
             <p className="nieuwstekst">
-              SK Ooidonck Leerne kampt met een nijpend tekort aan plaats om haar
-              spelers te laten voetballen. De site aan de Ooidonkdreef in
-              Bachte-Maria-Leerne (Deinze) telt één volwaardig terrein waar 16
-              ploegen op moeten trainen en wedstrijden spelen. Bestuurslid Hans
-              De Poortere trekt aan de alarmbel: “Onze club vangt spelers op die
-              elders niet geselecteerd worden. Ons motto is dat iedereen moet
-              kunnen voetballen, maar zonder tweede terrein of kunstgras zal dat
-              niet meer mogelijk zijn.”
-              <br />
-              <br /> Na een audit van Voetbal Vlaanderen werd SK Ooidonck Leerne
-              met haar jeugdopleiding bekroond met een zilveren ster. Vooral de
-              filosofie van de club dat iedereen speelkansen moet krijgen, viel
-              in de smaak. Maar de audit legde ook nog eens de vinger op een
-              wonde, die al een tijdje ettert. De club, die in vierde
-              provinciale speelt, beschikt over één van de mooiste sites van de
-              regio, naast de pittoreske Ooidonkdreef en op een steenworp van
-              kasteel Ooidonk, maar een nijpend capaciteitstekort hangt er als
-              een donkere schaduw boven.
+              Na onze meer dan geslaagde Eindejaars Wijn-actie van de voorbije jaren,  
+              willen we jullie graag nogmaals de kans geven om tijdens de komende eindejaarsfeesten 
+              een lekker glaasje te drinken.  Zo helpt U dan ook onze  club financieel  sterk en gezond te houden!
               <br />
               <br />
-              “In groot-Deinze vervullen wij graag onze maatschappelijke rol als
-              club die speelkansen biedt aan iedereen”, zegt bestuurslid Hans De
-              Poortere. “Spelers die elders uit de boot vallen, krijgen bij ons
-              volop kansen en soms zorgt deze ongedwongen aanpak ervoor dat
-              talent alsnog ontluikt. Sommige van deze spelers maken nu zelfs
-              deel uit van ons eerste elftal. Uit de audit blijkt van Voetbal
-              Vlaanderen blijkt dat we de waardering van spelers en ouders
-              krijgen maar we kregen slechte punten voor de schaarste aan
-              terreincapaciteit.”
+              Deze keer kozen we voor het wijndomein “Bon Remède Vieilles Vignes”, 
+              een galante en volle rode wijn uit de Ventoux-regio,  een witte Chardonnay “Papolle” 
+              uit de Gascogne en tot slot een toppertje uit de Spaanse Cava-regio, de “Nu-Maset”.
+              Waarschijnlijk is jullie voorraad van vorig jaar al lang op  en hebben jullie 
+              dringend nood aan een fill-up voor de komende eindejaarsperiode. 
               <br />
               <br />
-              Hans maakt even de rekensom. “SK Ooidonck Leerne telt 250
-              aangesloten leden en die zijn verdeeld over 16 ploegen, gaande van
-              de U6 tot het eerste elftal. We beschikken echter over één
-              volwaardig terrein en een kleiner oefenveld. Als je rekent dat 16
-              ploegen minstens twee keer gebruikmaken van ons speelveld, dan
-              zitten we op één seizoen aan zo’n 1.000 trainingen of wedstrijden.
-              Dat is veel te veel en bij slecht weer wordt ons veld dan ook
-              herschapen in een modderpoel. Om alle teams hun trainingen en
-              wedstrijden een heel seizoen lang te laten afwerken op een
-              degelijk bespeelbaar terrein, zou een kunstgrasveld alle problemen
-              oplossen. We beseffen dat dit morgen niet mogelijk is, maar
-              overmorgen zou een bemoedigend perspectief bieden. Nu moeten
-              trainingen vaak afgelast worden, om het terrein te sparen voor de
-              wedstrijden. Komt dat kunstgras of extra terreincapaciteit er
-              niet, dan zullen we zoals andere Deinse clubs het aantal leden
-              moeten inperken. Dat zou dan betekenen dat we onze
-              maatschappelijke rol niet langer zullen kunnen vervullen. Daar
-              passen we liever voor.”
+              U kan t.e.m. 19 december  a.s. uw bestelling per mail doorsturen naar: kurt.verbrugge@skynet.be
+              
+              We hebben speciaal een overzichtelijk bestelformulier in bijlage om het U 
+              (en ook ons )wat gemakkelijker te maken…
               <br />
               <br />
-              Schepen van Sport Sofie D’hondt (Open Deinze) zoekt samen met het
-              clubbestuur naar een oplossing, maar die is er voorlopig niet.
-              “Door de geografische ligging van de voetbalsite is een tweede
-              voetbalterrein voorlopig geen optie”, zegt schepen Sofie D’hondt.
-              “Een kunstgrasveld is voorlopig ook niet mogelijk, want de komende
-              drie jaren is er in het meerjarenplan geen budget meer voorzien
-              voor kunstgrasvelden. Daarbij moeten we nog onderzoeken of een
-              kunstgrasveld überhaupt mag aangelegd worden op die locatie. De
-              voetbalsite ligt in de buurt van kasteel Ooidonk en de
-              Ooidonkdreef en er mogen geen ingrepen gebeuren die het karakter
-              van de omgeving zouden schaden. “Als tijdelijke oplossing kunnen
-              de spelers van SK Ooidonck Leerne terecht op de terreinen van het
-              voormalige SK Nevele aan het Schipdonkkanaal. Ook het voetbalveld
-              Las Vegas in Astene is een mogelijk alternatief.”
-              <br />
-              <br />
-              Voor Hans De Poortere is deze tijdelijke oplossing niet voldoende.
-              “Ouders schrijven hun kinderen in om hier te komen voetballen,
-              niet in Nevele of in andere deelgemeenten”, zegt Hans. “Het kan
-              toch niet dat er halverwege de legislatuur geen budget meer is?
-              Aan De Brielmeersen was het wel mogelijk om vier kunstgrasvelden
-              voor SK Deinze aan te leggen, maar daar heeft men misschien meer
-              invloed. Waar een wil is, is een weg en ik hoop dat men snel met
-              een oplossing komt.”
+               Prijs : zie bijgaand bestelformulier, met mogelijkheid tot verkrijgen van factuur 
+              mits invullen facturatiegegevens
+              
+              Betalen : enkel via storting op reknr : BE76 9796 3655 2195 
+              (ten laatste tegen 19 december op onze rekening graag…) 
+              met vermelding van Naam en “ WIJNACTIE SKOL 2023” 
+              
+              Afhalen : enkel op zaterdag 23 december van 10u tot 13u in het portaal 
+              van Wijnhandel Taveirne, Guido Gezellelaan 37, B-9800 Deinze 
+              
+              We wensen jullie alvast veel plezier bij een glaasje Rood of Wit of iets anders. 
+              SKOL ! 
+              
+              Met sportieve groeten,
+
+              Het bestuur, Hans, Hendrik, Luc, Raf, Noël, Nick, Steven, Fré, Bjorn en Kurt
             </p>
           </div>
           <div className="nieuwsitem">
