@@ -77,9 +77,9 @@ class Home extends React.Component {
               Hendrik, Luc, Raf, Noël, Nick, Steven, Fré, Bjorn en Kurt
               <br />
               <br />
-              <div className="linkdiv" onClick={onButtonClick}>
+              <button className="formulierknop" onClick={onButtonClick}>
                 Download formulier
-              </div>
+              </button>
             </p>
           </div>
           <div className="nieuwsitem">
