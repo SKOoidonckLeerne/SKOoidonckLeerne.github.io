@@ -31,7 +31,7 @@ class Home extends React.Component {
             <p className="bold nieuwstitel">
               Wijnactie - Drink Rood en Wit
             </p>
-            <p>04 december 202</p>
+            <p>04 december 2023</p>
             <div>
               <img src="/Nieuws/nieuwskunstgras.jpg" alt="bewegingsschool" />
             </div>
