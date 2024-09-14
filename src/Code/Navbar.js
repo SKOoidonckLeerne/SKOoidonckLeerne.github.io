@@ -159,14 +159,11 @@ class Navbar extends React.Component {
               <Link to="/U11" className="dropdown-item">
                 U11
               </Link>
-              <Link to="/U9A" className="dropdown-item">
-                U9A
+              <Link to="/U10" className="dropdown-item">
+                U10
               </Link>
-              <Link to="/U9B" className="dropdown-item">
-                U9B
-              </Link>
-              <Link to="/U8" className="dropdown-item">
-                U8
+              <Link to="/U9" className="dropdown-item">
+                U9
               </Link>
             </div>
           </li>

@@ -62,6 +62,11 @@
   text-align: justify;
 }
 
+.nieuwslink {
+  margin-left: 5px;
+  color: black;
+}
+
 .linkdiv {
   font-weight: bold;
 }

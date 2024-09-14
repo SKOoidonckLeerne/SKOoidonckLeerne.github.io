@@ -40,135 +40,168 @@ class Home extends React.Component {
         <div className="nieuws">
           <p className="bold">Laatste nieuws:</p>
           <div className="nieuwsitem">
-            <p className="bold nieuwstitel">Wijnactie - Drink Rood en Wit</p>
-            <p>04 december 2023</p>
+            <p className="bold nieuwstitel">
+              4de pro­vin­ci­a­ler SK Ooi­don­ck Leer­ne speelt
+              bene­fietwed­strijd in Londen
+            </p>
+            <p>
+              19 augustus 2024
+              <a
+                className="nieuwslink"
+                href="https://avs.be/sport/4de-provincialer-sk-ooidonk-leerne-speelt-benefiet-wedstrijd-in-londen"
+              >
+                via AVS
+              </a>
+            </p>
+            <div>
+              <img src="/Nieuws/nieuwsbenefiet.jpg" alt="benefietmatch" />
+            </div>
             <p className="nieuwstekst">
-              Na onze meer dan geslaagde Eindejaars Wijn-actie van de voorbije
-              jaren, willen we jullie graag nogmaals de kans geven om tijdens de
-              komende eindejaarsfeesten een lekker glaasje te drinken. Zo helpt
-              U dan ook onze club financieel sterk en gezond te houden!
+              SK Ooidonck Leerne, de voetbalploeg uit 4de provinciale, heeft in
+              Engeland een benefietwedstrijd gespeeld tegen AFC Wycombe, een
+              ploeg uit Londen.
+              <br />
+              <br /> Alles begon met enkele grappige Tiktok filmpjes die een
+              sympathisant van Ooidonck Leerne maakte. De video’s kregen meer
+              dan 100.000 views. Ook bij de Londense amateur club Wycombe. Die
+              daagde SK Ooidonck Leerne uit voor een benefietwedstrijd. De
+              wedstrijd werd afgelopen zaterdag gespeeld in Engeland. AFC
+              Wycombe speelde tegen SK Ooidonck Leerne in de Sunday League Cup.
+              De opbrengst ging naar een Engels kankerpatiëntje.
               <br />
               <br />
-              Deze keer kozen we voor het wijndomein “Bon Remède Vieilles
-              Vignes”, een galante en volle rode wijn uit de Ventoux-regio, een
-              witte Chardonnay “Papolle” uit de Gascogne en tot slot een
-              toppertje uit de Spaanse Cava-regio, de “Nu-Maset”. Waarschijnlijk
-              is jullie voorraad van vorig jaar al lang op en hebben jullie
-              dringend nood aan een fill-up voor de komende eindejaarsperiode.
+              Kyle Aerens - videoteam SK Ooidonck Leerne: "Na het zien van de
+              filmpjes zijn de mannen een beetje met ons beginnen lachen dat ze
+              vlug eens een wedstrijd van ons zouden winnen. Dat is dan
+              uiteindelijk in een uitdaging gekomen en nu zijn we 2 dagen verder
+              en zijn we geëindigd in een 4-4 gelijkspel. Dus het was iets
+              minder voor hun ook".
               <br />
               <br />
-              U kan t.e.m. 19 december a.s. uw bestelling per mail doorsturen
-              naar: kurt.verbrugge@skynet.be. We hebben speciaal een
-              overzichtelijk bestelformulier in bijlage om het U (en ook ons)
-              wat gemakkelijker te maken…
-              <br />
-              <br />
-              Prijs: zie bijgaand bestelformulier, met mogelijkheid tot
-              verkrijgen van factuur mits invullen facturatiegegevens. Betalen:
-              enkel via storting op reknr: BE76 9796 3655 2195 (ten laatste
-              tegen 19 december op onze rekening graag…) met vermelding van Naam
-              en “WIJNACTIE SKOL 2023”. Afhalen: enkel op zaterdag 23 december
-              van 10u tot 13u in het portaal van Wijnhandel Taveirne, Guido
-              Gezellelaan 37, B-9800 Deinze.
-              <br />
-              <br />
-              We wensen jullie alvast veel plezier bij een glaasje Rood of Wit
-              of iets anders. SKOL! Met sportieve groeten, Het bestuur, Hans,
-              Hendrik, Luc, Raf, Noël, Nick, Steven, Fré, Bjorn en Kurt
-              <br />
-              <br />
-              <button className="formulierknop" onClick={onButtonClick}>
-                Download formulier
-              </button>
+              Op het einde van de wedstrijd zijn er plannen gesmeed voor een
+              vervolg. Kyle Aerens - videoteam SK Ooidonck Leerne: "We hebben
+              beslist dat de mannen volgend jaar bij ons komen. Om een
+              terugwedstrijd te spelen, dat vermoedelijk hier doorgaan. We zijn
+              momenteel aan het mikken op de week van de Gentse Feesten om hen
+              ook eens een beetje cultuur te laten opsnuiven van hier".
             </p>
           </div>
           <div className="nieuwsitem">
             <p className="bold nieuwstitel">
-              SK Ooidonck Leerne breidt werking uit met bewegingsschool en
-              wandelvoetbal
+              Oplossingen voor plaatsgebrek op voetbalsite SK Ooidonck Leerne:
+              “Onze ledenstop kunnen we eindelijk opheffen”
             </p>
-            <p>18 augustus 2022</p>
+            <p>
+              6 augustus 2024
+              <a
+                className="nieuwslink"
+                href="https://www.hln.be/deinze/oplossingen-voor-plaatsgebrek-op-voetbalsite-sk-ooidonck-leerne-onze-ledenstop-kunnen-we-eindelijk-opheffen~adf8061a/"
+              >
+                via HLN
+              </a>
+            </p>
             <div>
-              <img src="/Nieuws/nieuwsbeweging.jpg" alt="bewegingsschool" />
+              <img src="/Nieuws/nieuwsjeugd.jpg" alt="ledenstop" />
             </div>
             <p className="nieuwstekst">
-              SK Ooidonck Leerne start met enkele nieuwe initiatieven. “Nieuw
-              dit seizoen is onze bewegingsschool, toegankelijk voor jongens en
-              meisjes, geboren in 2016, 2017 en 2018", zegt bestuurslid Hans De
-              Poortere. “De bedoeling is om de kinderen meer te laten bewegen
-              met focus op de algemene ontwikkeling van vaardigheden die van pas
-              kunnen komen om eender welke sporttak te beoefenen. Voor de
-              55-plussers is er wandelvoetbal. Hierbij wordt op een beperkt
-              terrein gespeeld met teams van 8 spelers.”
+              SK Ooidonck Leerne kampt al jaren met een nijpend tekort aan
+              plaats om haar spelers te laten voetballen. Maar er is eindelijk
+              een oplossing in zicht: de stad Deinze investeerde in een
+              drainagesysteem voor het bestaande terrein en mocht het veld in de
+              Ooidonkdreef toch onbespeelbaar zijn, dan kan SK Ooidonck Leerne
+              op verplaatsing spelen. <br />
+              <br /> Twee jaar geleden werd de jeugdopleiding van SK Ooidonck
+              Leerne na een audit van Voetbal Vlaanderen bekroond met een
+              zilveren ster. Vooral de filosofie van de club dat iedereen
+              speelkansen moet krijgen, viel in de smaak. Maar de audit legde
+              ook nog eens de vinger op een wonde, die al een tijdje ettert. De
+              club, die in vierde provinciale speelt, beschikt over één van de
+              mooiste sites van de regio, naast de pittoreske Ooidonkdreef en op
+              een steenworp van kasteel Ooidonk, maar kampt al jaren met een
+              nijpend capaciteitstekort. De club, die 250 leden telt, kaartte
+              bij HLN de problematiek aan en pleitte voor kunstgras of een extra
+              terrein. Een gedwongen ledenstop remde de groei van de club af en
+              bovendien moesten vorig seizoen tientallen trainingen en
+              wedstrijden voor de jeugdploegen worden afgelast door de
+              onbespeelbaarheid van het terrein. <br />
               <br />
-              <br /> Ondertussen blijft - mede dankzij de bekroning met een
-              zilveren ster door Voetbal Vlaanderen - het aantal jeugdspelers
-              groeien. “Helaas heeft deze bloeiende werking ook een keerzijde en
-              kunnen we door een nijpend plaatsgebrek niet iedereen de
-              gelegenheid geven lid te worden van onze club”, zegt Hans De
-              Poortere. “We beschikken in elke categorie over een team en bij U8
-              en de beloften zelfs 2 teams. De gesprekken met de schepen van
-              Sport over bijkomende terreincapaciteit zijn nog lopende en we
-              blijven hopen op een spoedige en passende oplossing. Een
-              kunstgrasveld zou in die optiek een godsgeschenk zijn.”
+              Een tweede terrein of kunstgras liggen er nog steeds niet, maar er
+              werd wel een andere oplossing gevonden. “Na intensief overleg met
+              de stad Deinze hebben we moeten vaststellen dat de regels inzake
+              ruimtelijke ordening de aanleg van bijkomende terreincapaciteit of
+              een kunstgrasveld onmogelijk maken”, zegt bestuurslid Hans De
+              Poortere. “Het stadsbestuur maakte in het tussenseizoen wel de
+              nodige budgetten (zo’n 50.000 euro) vrij voor de aanleg van een
+              drainagesysteem. Dit moet ervoor zorgen dat het hoofdterrein beter
+              bestand is tegen regenval en langer in betere conditie kan blijven
+              dan de voorbije jaren het geval was. We hopen dat we nu minder
+              trainingen en wedstrijden moet annuleren en dat het de
+              jeugdspelers daardoor meer spelvreugde kan bezorgen.” <br />
+              <br />
+              Mocht ondanks het drainagesysteem het terrein van SK Ooidonck
+              Leerne toch onbespeelbaar zijn, dan is er nog een tweede
+              oplossing. “Tijdens een uitermate constructief overleg met de stad
+              en de burenclubs SK Deinze, Zeveren Sportief en Eendracht Vinkt
+              werden de nodige oplossingen gevonden”, aldus De Poortere. “De
+              jeugd van SK Ooidonck Leerne kan op woensdagnamiddag terecht op de
+              kunstgrasvelden van provinciaal recreatiedomein De Brielmeersen en
+              de seniorteams kunnen op woensdagavond gebruik maken van het
+              kunstgras van Eendracht Vinkt. Zo zijn alle teams van minstens één
+              wekelijkse training verzekerd, mochten we in de komende maanden
+              opnieuw met overvloedige regenval en onbespeelbare terreinen te
+              kampen krijgen. Voorts kunnen we nog gebruik maken van de
+              terreinen van het voormalige SK Nevele. Om de site aan de
+              Ooidonkdreef zo veel mogelijk te ontlasten en zo lang mogelijk
+              wedstrijdklaar te houden, zullen veel trainingssessies in Nevele
+              worden ingepland. Deze oplossingen geven opnieuw lucht en zuurstof
+              aan de jeugdwerking.”
               <br />
               <br />
-              Andere nieuwigheden zijn het nieuwe clublogo en de vernieuwde
-              website. Op zondag 14 augustus stond voor het eerst een
-              kennismakingsdag op het programma met de nieuwe trainers en nieuwe
-              leden. Op zaterdag 20 augustus wordt tijdens de jeugddag de
-              traditionele aftrap gegeven voor het nieuwe seizoen.
+              De club doet meteen ook een oproep naar nieuwe leden. “Met deze
+              oplossingen kunnen we de ledenstop opheffen. Zo kunnen we opnieuw
+              meisjes en jongens verwelkomen van de geboortejaren 2016, 2017,
+              2018 en 2019. De gratis trainingen vinden plaats op
+              woensdagnamiddag. Geïnteresseerden kunnen zich melden bij
+              frederik.haelterman@telenet.be”, geeft De Poortere nog mee.
             </p>
           </div>
-
           <div className="nieuwsitem">
             <p className="bold nieuwstitel">
-              SK Ooidonck Leerne wordt partnerclub van KAA Gent
+              Drai­na­ge voet­bal­veld SK Ooi­don­ck Leer­ne moet jeugd­wer­king
+              garanderen
             </p>
-            <p>14 maart 2021</p>
-            <div>
-              <img src="/Nieuws/nieuwsgent.png" alt="partnerclub" />
-            </div>
+            <p>
+              5 augustus 2024
+              <a
+                className="nieuwslink"
+                href="https://avs.be/nieuws/drainage-voetbalveld-sk-ooidonck-leerne-moet-jeugdwerking-garanderen"
+              >
+                via AVS
+              </a>
+            </p>
             <p className="nieuwstekst">
-              Als kleinschalige voetbalclub houdt SK Ooidonck Leerne er een
-              bewust familiale visie op na. In tegenstelling tot vele andere
-              clubs, waar zuiver op de reeds aanwezige voetbalcapaciteiten
-              geselecteerd wordt, wil SK Ooidonck Leerne een inspirerende
-              omgeving creëren waar elk voetbaltalent aan zijn trekken kan
-              komen. Met trots kondigt de club nu een verdere stap in haar
-              ontwikkeling aan. Er werd immers een samenwerkingsverband gesloten
-              met het grote KAA Gent dat op die manier haar Blue White Network
-              uitbreidt. <br />
-              <br /> “Voor een familiale club als de onze, beschouwen we dit als
-              een erkenning voor het geduldige werk van alle medewerkers,
-              trainers, spelers en bestuursleden”, zegt woordvoerder Hans De
-              Poortere. “In het streven om een netwerk van partnersclubs uit te
-              breiden naar de regio buiten Gent kwamen de jeugdcoördinatoren van
-              KAA Gent met de vraag of wij hier deel wilden van uitmaken. Aan
-              die vraag is een zorgvuldige screening voorafgegaan. Vooral de
-              specifieke clubcultuur en beleving zijn blijkbaar opgevallen en
-              vormden de aanleiding om ons als bescheiden club mee te willen
-              betrekken in de visie rond jeugdopleiding van de eliteclub. <br />
+              SK Ooidonck Leerne kan straks het nieuwe voetbalseizoen starten op
+              een volledig heraangelegd veld met drainage . <br />
+              <br /> In het verleden kampte de club, zeker bij veel regenval,
+              met een veld dat al vroeg in het seizoen onbespeelbaar was. Net om
+              die reden stopte de club met de inschrijving van jeugdspelers.
+              Dankzij de drainage en de samenwerking met clubs in de buurt, kan
+              er het komende seizoen veel gevoetbald worden bij SK Ooidonck
+              Leerne en mogen jeugdspelers zich opnieuw aanmelden. De toestand
+              van het veld was bij momenten zo slecht dat heel wat trainingen en
+              wedstrijden van de jeugd moesten worden afgelast. Door het gebrek
+              aan een bespeelbaar veld, besloot de club dan maar om geen nieuwe
+              jeugdspelers aan te werven.
               <br />
-              Wij zijn bijzonder trots op het kwaliteitslabel dat we op deze
-              indirecte manier meekrijgen”, gaat Hans verder. “De jeugdwerking
-              van SK Ooidonck Leerne zal op verschillende vlakken profiteren van
-              de kennis die aanwezig is binnen het Buffalo Talent Center.”
-              Technisch Verantwoordelijke Jeugdopleiding van KAA Gent Björn De
-              Neve: “Op korte termijn hebben we binnen de jeugdopleiding van KAA
-              Gent grote stappen voorwaarts gezet op vlak van visie en
-              omkadering. Via meerdere workshops en netwerkmomenten reiken we
-              graag de hand aan al onze partnerclubs, waaronder SK Ooidonck
-              Leerne. Met veel passie en enthousiasme zullen wij onze know-how
-              en expertise met hen delen.” <br />
               <br />
-              SK Ooidonck Leerne heeft zijn thuisbasis aan de pittoreske
-              Ooidonkdreef in Deinze (Bachte Maria-Leerne). De club telt 323
-              leden en brengt teams in alle leeftijdscategorieën in competitie.
-              Sinds enkele jaren is er ook een bloeiend damesteam met 30 leden.
-              Het eerste elftal komt uit in vierde provinciale en is uitsluitend
-              samengesteld met spelers die hun jeugdopleiding bij de club hebben
-              genoten.
+              Quote: Hans De Poortere - persverantwoordelijke SK Ooidonck
+              Leerne: "Dat kunnen we nu gelukkig opheffen en in tegendeel zou ik
+              zeggen. Nu kunnen we opnieuw jeugdspelers aanwerven. Dus iedereen
+              die in groot Deinze die nog graag wil gaan voetballen, jongens,
+              meisjes, die zijn zeer welkom. Vooral de leeftijdsgroepen met
+              geboortejaar 2016, 2017, 2018, 2019. Die kunnen hier nog volop
+              plaats vinden. En dat kan onder andere door dat het terrein nu
+              langer en beter bespeelbaar zal zijn".
             </p>
           </div>
         </div>

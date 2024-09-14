@@ -6,7 +6,7 @@ function EerstePloeg() {
       <img className="team" src="/EerstePloeg/Team.jpg" alt="Team" />
       <iframe
         className="klassement"
-        src="https://www.voetbalvlaanderen.be/competitie/CHP_112989/rangschikking"
+        src="https://www.voetbalvlaanderen.be/competitie/CHP_121602/rangschikking"
       />
       <p className="positie">STAF</p>
       <div className="positieoverzicht">
@@ -47,9 +47,9 @@ function EerstePloeg() {
           </p>
         </div>
         <div className="speler">
-          <img src="/EerstePloeg/SimonDeSmet.jpg" alt="Simon De Smet" />
+          <img src="/EerstePloeg/ThomasVanneste.jpg" alt="Thomas Vanneste" />
           <p>
-            <b>Simon De Smet</b>
+            <b>Thomas Vanneste</b>
           </p>
         </div>
         <div className="speler">
@@ -121,18 +121,6 @@ function EerstePloeg() {
       </div>
       <p className="positie">AANVAL</p>
       <div className="positieoverzicht">
-        <div className="speler">
-          <img src="/EerstePloeg/YoshiVanLaere.jpg" alt="Yoshi Van Laere" />
-          <p>
-            <b>Yoshi Van Laere</b>
-          </p>
-        </div>
-        <div className="speler">
-          <img src="/EerstePloeg/ThomasVanneste.jpg" alt="Thomas Vanneste" />
-          <p>
-            <b>Thomas Vanneste</b>
-          </p>
-        </div>
         <div className="speler">
           <img src="/EerstePloeg/JonasBlancke.jpg" alt="Jonas Blancke" />
           <p>

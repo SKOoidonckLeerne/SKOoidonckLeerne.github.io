@@ -1,14 +1,14 @@
 import "../CSS/Ploeg.css";
 
-function U9B() {
+function U10() {
   return (
     <div className="ploegoverzicht">
       <iframe
         className="klassement"
-        src="https://www.voetbalvlaanderen.be/competitie/CHP_112579/overzicht"
+        src="https://www.voetbalvlaanderen.be/competitie/CHP_121122/overzicht"
       />
     </div>
   );
 }
 
-export default U9B;
+export default U10;
