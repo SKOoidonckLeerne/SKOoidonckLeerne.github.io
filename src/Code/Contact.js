@@ -59,13 +59,13 @@ function Contact() {
           0494 51 62 22
         </p>
         <p>
-          <b>Aanspreekpunt Integriteit: Lisa Van de Voorde</b>
+          <b>Aanspreekpunt Integriteit: Mirra Boer</b>
           <br />
           <img className="icon" src="Icons/email_icon.png" alt="E-mail:" />
-          lisa_vandevoorde@hotmail.com 
+          mirraboer@gmail.com
           <br />
           <img className="icon" src="Icons/telephone_icon.png" alt="GSM:" />
-          0474 88 09 67
+          0479 55 68 24
         </p>
       </div>
       <div className="contactitem">

@@ -3,7 +3,7 @@ import "../CSS/Ploeg.css";
 function EerstePloeg() {
   return (
     <div className="ploegoverzicht">
-      <img className="team" src="/EerstePloeg/Team.jpg" alt="Team" />
+      <img className="team" src="/EerstePloeg/Team.jpeg" alt="Team" />
       <iframe
         className="klassement"
         src="https://www.voetbalvlaanderen.be/competitie/CHP_121602/rangschikking"
