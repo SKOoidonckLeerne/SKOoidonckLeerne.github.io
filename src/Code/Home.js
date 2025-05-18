@@ -41,6 +41,72 @@ class Home extends React.Component {
           <p className="bold">Laatste nieuws:</p>
           <div className="nieuwsitem">
             <p className="bold nieuwstitel">
+              SK Ooidonck Leerne schrijft sprookje in de schaduw van het
+              kasteel: “Nooit eerder slaagde de ploeg erin om te promoveren”
+            </p>
+            <p>
+              4 mei 2025
+              <a
+                className="nieuwslink"
+                href="https://www.nieuwsblad.be/cnt/dmf20250504_94978662"
+              >
+                via Nieuwsblad
+              </a>
+            </p>
+            <div>
+              <img src="/Nieuws/nieuwspromotie.jpg" alt="promotie" />
+            </div>
+            <p className="nieuwstekst">
+              In de schaduw van het Kasteel van Ooidonck werd zaterdagavond
+              geschiedenis geschreven. SK Ooidonck Leerne beukte voor het eerst
+              in zijn bestaan de poort naar derde provinciale open. De match
+              tegen VC Sparta Bevere werd pas in de verlengingen door de
+              onvermijdelijke Mehmet Kutlu beslist. Zondagmorgen in Leerne,
+              vogels fluiten vrolijke deuntjes. Om half vijf ging het licht uit
+              in de kantine van Ooidonck Leerne. De sympathieke ploeg van coach
+              David Lampaert compenseerde het verlies van de titel door tegen
+              Sparta Bevere dan toch de poort open te beuken naar derde. “Nooit
+              eerder slaagde de ploeg erin om te promoveren”, zegt coach David
+              Lampaert met schorre stem. “Het mislopen van de titel was een
+              enorme teleurstelling, maar dit voelt aan alsof we toch een titel
+              wonnen. Het werd een echte cupmatch. Er was nooit eerder zoveel
+              volk in Leerne en dat is ook de verdienste van de bezoekers, die
+              ook met veel supporters afzakten. Toen Bevere op het einde van de
+              wedstrijd gelijkmaakte, vreesde ik even dat ze erop en erover
+              gingen, maar we hielden stand. Kutlu zorgde voor een geweldige
+              ontlading.”
+              <br />
+              <br /> In Leerne speelt men nog voor een bierbonneke. “Met de
+              meeste spelers ben ik opgegroeid”, voegt Lampaert, die in Leerne
+              woont, eraan toe. “Vijftien jaar werk ik nu al voor Leerne, eerst
+              voor Eendracht en nu voor Ooidonck Leerne. In het seizoen
+              2017-2018 werd ik hoofdtrainer, daarvoor trainde ik de
+              jeugdploegen. Wij hebben aangetoond dat je met spelers vanonder de
+              kerktoren iets moois kan neerzetten. Dit is een vriendengroep die
+              al jaren aan elkaar klit. We schrijven een mooi sprookje, maar we
+              zijn ook realistisch en niet blind voor wat er op ons afkomt. Onze
+              filosofie zal ook in derde provinciale dezelfde blijven”, zegt
+              Lampaert met veel overtuiging.
+              <br />
+              <br />
+              En nu begint de voorbereiding op volgend seizoen. Topschutter
+              Mehmet Kutlu blijft alvast bij de promovendus. “Of we klaar zijn
+              voor de stap? Dat is een moeilijke vraag”, denkt Lampaert. “We
+              zetten een stap in het onbekende. We hopen op het elan van dit
+              seizoen te kunnen doorgaan, maar we beseffen ook dat we op onze
+              limieten zullen botsen. Vandaag moeten we vooral genieten. Waar we
+              volgend seizoen zullen uitkomen, is koffiedik kijken.
+              Versterkingen aantrekken zal moeten binnen de budgettaire ruimte
+              die er is. De club wil gezond blijven. Dienen er zich
+              opportuniteiten aan, dan zullen we toehappen, maar we gaan zeker
+              geen gekke dingen doen. Nu gaan we vooral genieten van dit
+              uitzonderlijke moment in de clubgeschiedenis. De kalendermaker van
+              de eindronde was ons gunstig gezind. Het thuisvoordeel was niet
+              onbelangrijk”, geniet Lampaert met volle teugen.
+            </p>
+          </div>
+          <div className="nieuwsitem">
+            <p className="bold nieuwstitel">
               4de pro­vin­ci­a­ler SK Ooi­don­ck Leer­ne speelt
               bene­fietwed­strijd in Londen
             </p>
@@ -84,124 +150,6 @@ class Home extends React.Component {
               terugwedstrijd te spelen, dat vermoedelijk hier doorgaan. We zijn
               momenteel aan het mikken op de week van de Gentse Feesten om hen
               ook eens een beetje cultuur te laten opsnuiven van hier".
-            </p>
-          </div>
-          <div className="nieuwsitem">
-            <p className="bold nieuwstitel">
-              Oplossingen voor plaatsgebrek op voetbalsite SK Ooidonck Leerne:
-              “Onze ledenstop kunnen we eindelijk opheffen”
-            </p>
-            <p>
-              6 augustus 2024
-              <a
-                className="nieuwslink"
-                href="https://www.hln.be/deinze/oplossingen-voor-plaatsgebrek-op-voetbalsite-sk-ooidonck-leerne-onze-ledenstop-kunnen-we-eindelijk-opheffen~adf8061a/"
-              >
-                via HLN
-              </a>
-            </p>
-            <div>
-              <img src="/Nieuws/nieuwsjeugd.jpg" alt="ledenstop" />
-            </div>
-            <p className="nieuwstekst">
-              SK Ooidonck Leerne kampt al jaren met een nijpend tekort aan
-              plaats om haar spelers te laten voetballen. Maar er is eindelijk
-              een oplossing in zicht: de stad Deinze investeerde in een
-              drainagesysteem voor het bestaande terrein en mocht het veld in de
-              Ooidonkdreef toch onbespeelbaar zijn, dan kan SK Ooidonck Leerne
-              op verplaatsing spelen. <br />
-              <br /> Twee jaar geleden werd de jeugdopleiding van SK Ooidonck
-              Leerne na een audit van Voetbal Vlaanderen bekroond met een
-              zilveren ster. Vooral de filosofie van de club dat iedereen
-              speelkansen moet krijgen, viel in de smaak. Maar de audit legde
-              ook nog eens de vinger op een wonde, die al een tijdje ettert. De
-              club, die in vierde provinciale speelt, beschikt over één van de
-              mooiste sites van de regio, naast de pittoreske Ooidonkdreef en op
-              een steenworp van kasteel Ooidonk, maar kampt al jaren met een
-              nijpend capaciteitstekort. De club, die 250 leden telt, kaartte
-              bij HLN de problematiek aan en pleitte voor kunstgras of een extra
-              terrein. Een gedwongen ledenstop remde de groei van de club af en
-              bovendien moesten vorig seizoen tientallen trainingen en
-              wedstrijden voor de jeugdploegen worden afgelast door de
-              onbespeelbaarheid van het terrein. <br />
-              <br />
-              Een tweede terrein of kunstgras liggen er nog steeds niet, maar er
-              werd wel een andere oplossing gevonden. “Na intensief overleg met
-              de stad Deinze hebben we moeten vaststellen dat de regels inzake
-              ruimtelijke ordening de aanleg van bijkomende terreincapaciteit of
-              een kunstgrasveld onmogelijk maken”, zegt bestuurslid Hans De
-              Poortere. “Het stadsbestuur maakte in het tussenseizoen wel de
-              nodige budgetten (zo’n 50.000 euro) vrij voor de aanleg van een
-              drainagesysteem. Dit moet ervoor zorgen dat het hoofdterrein beter
-              bestand is tegen regenval en langer in betere conditie kan blijven
-              dan de voorbije jaren het geval was. We hopen dat we nu minder
-              trainingen en wedstrijden moet annuleren en dat het de
-              jeugdspelers daardoor meer spelvreugde kan bezorgen.” <br />
-              <br />
-              Mocht ondanks het drainagesysteem het terrein van SK Ooidonck
-              Leerne toch onbespeelbaar zijn, dan is er nog een tweede
-              oplossing. “Tijdens een uitermate constructief overleg met de stad
-              en de burenclubs SK Deinze, Zeveren Sportief en Eendracht Vinkt
-              werden de nodige oplossingen gevonden”, aldus De Poortere. “De
-              jeugd van SK Ooidonck Leerne kan op woensdagnamiddag terecht op de
-              kunstgrasvelden van provinciaal recreatiedomein De Brielmeersen en
-              de seniorteams kunnen op woensdagavond gebruik maken van het
-              kunstgras van Eendracht Vinkt. Zo zijn alle teams van minstens één
-              wekelijkse training verzekerd, mochten we in de komende maanden
-              opnieuw met overvloedige regenval en onbespeelbare terreinen te
-              kampen krijgen. Voorts kunnen we nog gebruik maken van de
-              terreinen van het voormalige SK Nevele. Om de site aan de
-              Ooidonkdreef zo veel mogelijk te ontlasten en zo lang mogelijk
-              wedstrijdklaar te houden, zullen veel trainingssessies in Nevele
-              worden ingepland. Deze oplossingen geven opnieuw lucht en zuurstof
-              aan de jeugdwerking.”
-              <br />
-              <br />
-              De club doet meteen ook een oproep naar nieuwe leden. “Met deze
-              oplossingen kunnen we de ledenstop opheffen. Zo kunnen we opnieuw
-              meisjes en jongens verwelkomen van de geboortejaren 2016, 2017,
-              2018 en 2019. De gratis trainingen vinden plaats op
-              woensdagnamiddag. Geïnteresseerden kunnen zich melden bij
-              frederik.haelterman@telenet.be”, geeft De Poortere nog mee.
-            </p>
-          </div>
-          <div className="nieuwsitem">
-            <p className="bold nieuwstitel">
-              Drai­na­ge voet­bal­veld SK Ooi­don­ck Leer­ne moet jeugd­wer­king
-              garanderen
-            </p>
-            <p>
-              5 augustus 2024
-              <a
-                className="nieuwslink"
-                href="https://avs.be/nieuws/drainage-voetbalveld-sk-ooidonck-leerne-moet-jeugdwerking-garanderen"
-              >
-                via AVS
-              </a>
-            </p>
-            <p className="nieuwstekst">
-              SK Ooidonck Leerne kan straks het nieuwe voetbalseizoen starten op
-              een volledig heraangelegd veld met drainage . <br />
-              <br /> In het verleden kampte de club, zeker bij veel regenval,
-              met een veld dat al vroeg in het seizoen onbespeelbaar was. Net om
-              die reden stopte de club met de inschrijving van jeugdspelers.
-              Dankzij de drainage en de samenwerking met clubs in de buurt, kan
-              er het komende seizoen veel gevoetbald worden bij SK Ooidonck
-              Leerne en mogen jeugdspelers zich opnieuw aanmelden. De toestand
-              van het veld was bij momenten zo slecht dat heel wat trainingen en
-              wedstrijden van de jeugd moesten worden afgelast. Door het gebrek
-              aan een bespeelbaar veld, besloot de club dan maar om geen nieuwe
-              jeugdspelers aan te werven.
-              <br />
-              <br />
-              Quote: Hans De Poortere - persverantwoordelijke SK Ooidonck
-              Leerne: "Dat kunnen we nu gelukkig opheffen en in tegendeel zou ik
-              zeggen. Nu kunnen we opnieuw jeugdspelers aanwerven. Dus iedereen
-              die in groot Deinze die nog graag wil gaan voetballen, jongens,
-              meisjes, die zijn zeer welkom. Vooral de leeftijdsgroepen met
-              geboortejaar 2016, 2017, 2018, 2019. Die kunnen hier nog volop
-              plaats vinden. En dat kan onder andere door dat het terrein nu
-              langer en beter bespeelbaar zal zijn".
             </p>
           </div>
         </div>
