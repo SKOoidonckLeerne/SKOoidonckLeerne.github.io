@@ -6,7 +6,7 @@ function U15() {
       <img className="team" src="/Ploegen/U15.jpeg" alt="Team" />
       <iframe
         className="klassement"
-        src="https://www.voetbalvlaanderen.be/competitie/CHP_120082/rangschikking"
+        src="https://www.voetbalvlaanderen.be/competitie/CHP_127273/rangschikking"
       />
     </div>
   );

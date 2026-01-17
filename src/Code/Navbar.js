@@ -162,8 +162,14 @@ class Navbar extends React.Component {
               <Link to="/U10" className="dropdown-item">
                 U10
               </Link>
-              <Link to="/U9" className="dropdown-item">
-                U9
+              <Link to="/U9A" className="dropdown-item">
+                U9A
+              </Link>
+              <Link to="/U9B" className="dropdown-item">
+                U9B
+              </Link>
+              <Link to="/U6" className="dropdown-item">
+                U6
               </Link>
             </div>
           </li>

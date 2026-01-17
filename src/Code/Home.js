@@ -26,7 +26,7 @@ class Home extends React.Component {
             present in alle leeftijdsreeksen. Bovendien spelen we ook met een
             damesteam in competitie. De focus ligt op een goede opleiding met
             deskundige trainers. Sinds 2017 is er ook een fanion-team dat
-            uitkomt in 4e provinciale waarbij quasi uitsluitend eigen
+            uitkomt in 3e provinciale waarbij quasi uitsluitend eigen
             jeugdspelers spelen!
             <br />
             We werken met een bescheiden maar sluitende begroting en voeren

@@ -11,7 +11,9 @@ import U13 from "./U13.js";
 import U12 from "./U12.js";
 import U11 from "./U11.js";
 import U10 from "./U10.js";
-import U9 from "./U9.js";
+import U9A from "./U9A.js";
+import U9B from "./U9B.js";
+import U6 from "./U6.js";
 import Bestuur from "./Bestuur.js";
 import Contact from "./Contact.js";
 import Sponsors from "./Sponsors.js";
@@ -30,7 +32,9 @@ function AppRouter() {
       <Route path="/U12" element={<U12 />} />
       <Route path="/U11" element={<U11 />} />
       <Route path="/U10" element={<U10 />} />
-      <Route path="/U9" element={<U9 />} />
+      <Route path="/U9A" element={<U9A />} />
+      <Route path="/U9B" element={<U9B />} />
+      <Route path="/U6" element={<U6 />} />
       <Route path="/bestuur" element={<Bestuur />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="/sponsors" element={<Sponsors />} />

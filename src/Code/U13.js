@@ -5,7 +5,7 @@ function U13() {
     <div className="ploegoverzicht">
       <iframe
         className="klassement"
-        src="https://www.voetbalvlaanderen.be/competitie/CHP_120040/overzicht"
+        src="https://www.voetbalvlaanderen.be/competitie/CHP_125989/overzicht"
       />
     </div>
   );

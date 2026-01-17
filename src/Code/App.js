@@ -28,7 +28,7 @@ function App() {
           font-family="monospace"
           font-weight="bold"
         >
-          stamnr. 9477 - 4e Prov B Oost-Vl
+          stamnr. 9477 - 3e Prov B Oost-Vl
         </text>
       </svg>
       <img src="/Banner/SKOL_logo.svg" alt="loge" class="logo" />
